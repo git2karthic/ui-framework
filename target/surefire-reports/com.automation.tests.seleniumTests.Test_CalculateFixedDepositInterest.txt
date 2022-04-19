@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.automation.tests.seleniumTests.Test_CalculateFixedDepositInterest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.112 s - in com.automation.tests.seleniumTests.Test_CalculateFixedDepositInterest
